@@ -1,0 +1,229 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1.3.4"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "com-sarriaroman-photoviewer": {
+    "source": {
+      "type": "registry",
+      "id": "com-sarriaroman-photoviewer@1.2.4"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-buildinfo": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-buildinfo@4.0.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-camera": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-camera@4.1.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-device": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-device@2.0.3"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-facebook4": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-facebook4@6.4.0"
+    },
+    "is_top_level": true,
+    "variables": {
+      "APP_ID": "307639357261904",
+      "APP_NAME": "PideyApp",
+      "FACEBOOK_HYBRID_APP_EVENTS": "false",
+      "FACEBOOK_ANDROID_SDK_VERSION": "5.13.0"
+    }
+  },
+  "cordova-plugin-file-transfer": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-file-transfer@1.7.1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-file": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-file@>=5.0.0"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-geolocation": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-geolocation@4.0.2"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-googleplus": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-googleplus@8.4.0"
+    },
+    "is_top_level": true,
+    "variables": {
+      "REVERSED_CLIENT_ID": "com.googleusercontent.apps.973794971613-35pfdlds24k19h53earn66bt8v1335dl",
+      "PLAY_SERVICES_VERSION": "11.0.1"
+    }
+  },
+  "cordova-plugin-media": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-media@5.0.2"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-network-information": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-network-information@2.0.2"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-splashscreen": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-splashscreen@5.0.3"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-x-socialsharing": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-x-socialsharing@5.6.5"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "es6-promise-plugin": {
+    "source": {
+      "type": "registry",
+      "id": "es6-promise-plugin@^4.1.0"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova.plugins.diagnostic": {
+    "source": {
+      "type": "registry",
+      "id": "cordova.plugins.diagnostic@5.0.1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-request-location-accuracy": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-request-location-accuracy@2.3.0"
+    },
+    "is_top_level": true,
+    "variables": {
+      "PLAY_SERVICES_VERSION": "11.0.1"
+    }
+  },
+  "uk.co.workingedge.phonegap.plugin.launchnavigator": {
+    "source": {
+      "type": "registry",
+      "id": "uk.co.workingedge.phonegap.plugin.launchnavigator@5.0.4"
+    },
+    "is_top_level": true,
+    "variables": {
+      "GOOGLE_API_KEY_FOR_ANDROID": "AIzaSyAjlGR4ZJayZcaFycUdskDe5TvVGPwJtDM"
+    }
+  },
+  "cordova-plugin-ionic-webview": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-ionic-webview@4.2.1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-dialogs": {
+    "source": {
+      "type": "registry",
+      "id": "git+https://github.com/dpa99c/cordova-plugin-dialogs.git"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-enable-multidex": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-enable-multidex@^0.2.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-firebasex": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-firebasex@9.1.0-cli"
+    },
+    "is_top_level": true,
+    "variables": {
+      "ANDROID_ICON_ACCENT": "#FF11FF11",
+      "FIREBASE_ANALYTICS_COLLECTION_ENABLED": "false",
+      "FIREBASE_PERFORMANCE_COLLECTION_ENABLED": "false",
+      "FIREBASE_CRASHLYTICS_COLLECTION_ENABLED": "false",
+      "SETUP_RECAPTCHA_VERIFICATION": "false",
+      "IOS_STRIP_DEBUG": "true"
+    }
+  },
+  "cordova-plugin-androidx": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-androidx@^1.0.2"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-androidx-adapter": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-androidx-adapter@^1.1.0"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-statusbar": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-statusbar@2.4.2"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-inappbrowser": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-inappbrowser@3.2.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

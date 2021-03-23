@@ -1,0 +1,127 @@
+{
+    "project_info": {
+      "project_number": "274590490195",
+      "firebase_url": "https://pideyapp-3db95.firebaseio.com",
+      "project_id": "pideyapp-3db95",
+      "storage_bucket": "pideyapp-3db95.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:274590490195:android:61268525fa09f9b7f370a6",
+          "android_client_info": {
+            "package_name": "com.ventsys.pideyapp"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "274590490195-ooc08hvvdqfh25dnkebm30527e6l24r4.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.ventsys.pideyapp",
+              "certificate_hash": "ad34e0eaad9b26193e0a5fc45790591c2db4a710"
+            }
+          },
+          {
+            "client_id": "274590490195-etn6r1d5h8vgk53ek7825tavpn9dobbj.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyA6QlJQJTJIA45u0QDrd1ITufIenJL-DQg"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "274590490195-etn6r1d5h8vgk53ek7825tavpn9dobbj.apps.googleusercontent.com",
+                "client_type": 3
+              },
+              {
+                "client_id": "274590490195-kidg48efmlnekrthh6r2d4cg9eto4p7c.apps.googleusercontent.com",
+                "client_type": 2,
+                "ios_info": {
+                  "bundle_id": "com.ventsys.pideyapp"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:274590490195:android:d86d06fa51082773f370a6",
+          "android_client_info": {
+            "package_name": "com.ventsys.repartidor"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "274590490195-etn6r1d5h8vgk53ek7825tavpn9dobbj.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyA6QlJQJTJIA45u0QDrd1ITufIenJL-DQg"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "274590490195-etn6r1d5h8vgk53ek7825tavpn9dobbj.apps.googleusercontent.com",
+                "client_type": 3
+              },
+              {
+                "client_id": "274590490195-kidg48efmlnekrthh6r2d4cg9eto4p7c.apps.googleusercontent.com",
+                "client_type": 2,
+                "ios_info": {
+                  "bundle_id": "com.ventsys.pideyapp"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:274590490195:android:40ae4f11dd708b9cf370a6",
+          "android_client_info": {
+            "package_name": "com.ventsys.tienda"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "274590490195-etn6r1d5h8vgk53ek7825tavpn9dobbj.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyA6QlJQJTJIA45u0QDrd1ITufIenJL-DQg"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "274590490195-etn6r1d5h8vgk53ek7825tavpn9dobbj.apps.googleusercontent.com",
+                "client_type": 3
+              },
+              {
+                "client_id": "274590490195-kidg48efmlnekrthh6r2d4cg9eto4p7c.apps.googleusercontent.com",
+                "client_type": 2,
+                "ios_info": {
+                  "bundle_id": "com.ventsys.pideyapp"
+                }
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
